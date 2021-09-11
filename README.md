@@ -7,6 +7,7 @@ skill stack
  - Front
    - 언어 : <img src="https://img.shields.io/badge/html-20c997?style=flat-square&logo=Js&logoColor=white"/> <img src="https://img.shields.io/badge/css-20c997?style=flat-square&logo=Js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-20c997?style=flat-square&logo=Js&logoColor=white"/> 
    - 라이브러리 : <img src="https://img.shields.io/badge/react-20c997?style=flat-square&logo=Js&logoColor=white"/> <img src="https://img.shields.io/badge/redux-20c997?style=flat-square&logo=Js&logoColor=white"/> <img src="https://img.shields.io/badge/vue-20c997?style=flat-square&logo=Js&logoColor=white"/>
+   - IDE : <img src="https://img.shields.io/badge/visual_studio_code-20c997?style=flat-square&logo=Js&logoColor=white"/> <img src="https://img.shields.io/badge/redux-20c997?style=flat-square&logo=Js&logoColor=white"/>
 
  - Back
    - 언어 : <img src="https://img.shields.io/badge/java-20c997?style=flat-square&logo=Js&logoColor=white"/> 

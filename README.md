@@ -19,9 +19,12 @@ skill stack
    - 코드분석 : <img src="https://img.shields.io/badge/sonar_qube-20c997?style=flat-square&logo=Js&logoColor=white"/> <img src="https://img.shields.io/badge/jacoco-20c997?style=flat-square&logo=Js&logoColor=white"/>
    - IDE : <img src="https://img.shields.io/badge/intelli_j-20c997?style=flat-square&logo=Js&logoColor=white"/>
 
-
 <!--
 **eedys1234/eedys1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+github-readme-stats.vercel.app/api?username=eedys1234&show_icons=true
+github-readme-stats.vercel.app/api/top-langs/?username=eedys1234&langs_count=8
 
 Here are some ideas to get you started:
 

@@ -13,6 +13,8 @@ skill stack
    - 프레임워크 : <img src="https://img.shields.io/badge/spring_mvc-20c997?style=flat-square&logo=Js&logoColor=white"/> <img src="https://img.shields.io/badge/spring_data_jpa-20c997?style=flat-square&logo=Js&logoColor=white"/> 
    - DBMS : <img src="https://img.shields.io/badge/mysql-20c997?style=flat-square&logo=Js&logoColor=white"/> 
    - 라이브러리 : <img src="https://img.shields.io/badge/queryDsl-20c997?style=flat-square&logo=Js&logoColor=white"/>
+   - 테스팅 프레임워크 : <img src="https://img.shields.io/badge/junit-20c997?style=flat-square&logo=Js&logoColor=white"/> <img src="https://img.shields.io/badge/mockito-20c997?style=flat-square&logo=Js&logoColor=white"/>
+
 
 <!--
 **eedys1234/eedys1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

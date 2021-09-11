@@ -4,7 +4,15 @@
 - I'm currently learning BackEnd Tech
 
 skill stack
- - 
+ - Front
+   - 언어 : <img src="https://img.shields.io/badge/html-20c997?style=flat-square&logo=Js&logoColor=white"/> <img src="https://img.shields.io/badge/css-20c997?style=flat-square&logo=Js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-20c997?style=flat-square&logo=Js&logoColor=white"/> 
+   - 라이브러리 : <img src="https://img.shields.io/badge/react-20c997?style=flat-square&logo=Js&logoColor=white"/> <img src="https://img.shields.io/badge/redux-20c997?style=flat-square&logo=Js&logoColor=white"/>
+
+ - Back
+   - 언어 : <img src="https://img.shields.io/badge/java-20c997?style=flat-square&logo=Js&logoColor=white"/> 
+   - 프레임워크 : <img src="https://img.shields.io/badge/spring_mvc-20c997?style=flat-square&logo=Js&logoColor=white"/> <img src="https://img.shields.io/badge/spring_data_jpa-20c997?style=flat-square&logo=Js&logoColor=white"/> 
+   - DBMS : <img src="https://img.shields.io/badge/mysql-20c997?style=flat-square&logo=Js&logoColor=white"/> 
+   - 라이브러리 : <img src="https://img.shields.io/badge/queryDsl-20c997?style=flat-square&logo=Js&logoColor=white"/>
 
 <!--
 **eedys1234/eedys1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

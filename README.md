@@ -1,10 +1,10 @@
-### Hi there 👋
+### I'm BackEnd Developer 👋👋👋👋
 
-I'm BackEnd Developer
+- I'm currently working on monitering solution company
+- I'm currently learning BackEnd Tech
 
-I'm currently working on monitering solution company
-I'm currently learning BackEnd Tech
-
+skill stack
+ - 
 
 <!--
 **eedys1234/eedys1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

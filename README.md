@@ -1,7 +1,7 @@
 ### I'm BackEnd Developer 👋👋👋👋
 
 - I'm currently working on monitering solution company
-- I'm currently learning BackEnd Tech
+- I'm currently learning BackEnd Tech And Sub FrontEnd Tech
 
 skill stack
  - Front

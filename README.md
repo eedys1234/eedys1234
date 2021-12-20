@@ -16,7 +16,7 @@ skill stack
    - DBMS : <img src="https://img.shields.io/badge/mysql-20c997?style=flat-square&logo=Js&logoColor=white"/> 
    - 라이브러리 : <img src="https://img.shields.io/badge/queryDsl-20c997?style=flat-square&logo=Js&logoColor=white"/>
    - 테스팅 프레임워크 : <img src="https://img.shields.io/badge/junit-20c997?style=flat-square&logo=Js&logoColor=white"/> <img src="https://img.shields.io/badge/mockito-20c997?style=flat-square&logo=Js&logoColor=white"/>
-   - 코드분석 : <img src="https://img.shields.io/badge/sonar_qube-20c997?style=flat-square&logo=Js&logoColor=white"/> <img src="https://img.shields.io/badge/jacoco-20c997?style=flat-square&logo=Js&logoColor=white"/>
+   - 코드분석 : <img src="https://img.shields.io/badge/sonar_qube-20c997?style=flat-square&logo=Js&logoColor=white"/>
    - IDE : <img src="https://img.shields.io/badge/intelli_j-20c997?style=flat-square&logo=Js&logoColor=white"/>
 
 <!--
